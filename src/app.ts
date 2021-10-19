@@ -1,5 +1,5 @@
 import 'dotenv/config';
-import express, { json } from 'express';
+import express from 'express';
 import http from 'http';
 import cors from 'cors';
 import { Server } from 'socket.io';
